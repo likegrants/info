@@ -82,5 +82,5 @@ The **LikeCoin Grants**, co-initiated by [LikeCoin Foundation](https://like.co) 
 If you have any questions, we are more than happy to help. You can:
 
 * File an issue in the [info](https://github.com/likegrants/info) repo
-* Ask in the "grants" channel on Discord
+* Find [LikeCoin](https://discord.com/invite/W4DQ6peZZZ) community on Discord and ask in the "grants" channel
 * Send an email to like.grants@protonmail.com
