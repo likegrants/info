@@ -51,7 +51,7 @@ The **LikeCoin Grants**, co-initiated by [LikeCoin Foundation](https://like.co) 
 
 ### Submit a Proposal
 
-1. Check out the [template-en.md](https://github.com/likegrants/proposals/blob/main/template-en.md) file in the "proposals" repo. 
+1. Check out the [template-en.md](https://github.com/likegrants/proposals/blob/main/template-en.md) file in the [proposals](https://github.com/likegrants/proposals) repo. 
 2. Submit a PR against the template file. Make sure to: (1) fill in all the categories in either English, Chinese, or both; (2) rename your file project-title.md (don't forget to replace 'project-title' with the name of your project).
 4. Go to [Matters](https://matters.news) website and publish a post (ideally contains a decent summary of your proposal) with the link of your GitHub submission included. Make sure the ID used is linked to the same LikeCoin wallet you wish to receive the grant.
 5. Send an email to like.grants@protonmail.com with a subject titled "LikeCoin Grants Proposal: Your Project Title" and in it please indicate: (1) your LikeCoin Wallet or Liker ID; (2) the link of your GitHub submission; (3) the link of your Matters post.
@@ -65,7 +65,7 @@ The **LikeCoin Grants**, co-initiated by [LikeCoin Foundation](https://like.co) 
 4. Contact Info
 5. Applicant Introduction
 6. Project Introduction
-7. Work Plan
+7. Work Plan (includes a schedule and milestones planning)
 8. Budget
 
 
@@ -81,6 +81,6 @@ The **LikeCoin Grants**, co-initiated by [LikeCoin Foundation](https://like.co) 
 
 If you have any questions, we are more than happy to help. You can:
 
-* File an issue in the "info" repo
+* File an issue in the [info](https://github.com/likegrants/info) repo
 * Ask in the "grants" channel on Discord
 * Send an email to like.grants@protonmail.com
