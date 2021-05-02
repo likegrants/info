@@ -59,16 +59,13 @@ The **LikeCoin Grants**, co-initiated by [LikeCoin Foundation](https://like.co) 
 
 ### Proposal Specs
 
-1. Project title
+1. Project Title
 2. Category
-3. Name of Applicant / LikeCoin wallet or Liker ID
-4. Brief self-introduction
-5. Work Plan
-    (1) Concept(s) & deliverable(s)
-    (2) Development / execution plan
-    (3) Landing / promotion / diffusion plan
-6. Schedule
-7. Expectation of benefits
+3. Name of Applicant
+4. Contact Info
+5. Applicant Introduction
+6. Project Introduction
+7. Work Plan
 8. Budget
 
 
