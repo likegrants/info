@@ -52,9 +52,9 @@
 ### 遞交提案書
 
 1. 請先參考 [proposals](https://github.com/likegrants/proposals) 資料夾內的 [template-ch.md](https://github.com/likegrants/proposals/blob/main/template-ch.md) 檔案。
-2. 對 template.md 提交一個 PR ，並請務必確認：（1）依檔案中所有項目欄位，以英文、中文或中英並列，清楚填寫完整的提案內容；（2）修改檔名為 'project-title.md'（別忘了將 project-title 設為您的提案名稱！）並送出提交。
+2. 對 template.md 提交一個 PR ，並請務必確認：（1）依檔案中所有項目欄位，以英文、中文或中英並列，清楚填寫完整的提案內容；（2）修改檔名為 `project-title`.md（別忘了將 `project-title` 設為您的提案名稱！）並送出提交。
 3. 前往 [Matters](https://matters.news) 網站並發佈一則貼文，簡要介紹您的計畫，並在文內附上 GitHub 的提案書遞交連結。這一步能幫助更多 LikeCoin 一般使用者提前認識您的計畫，您也能藉此獲得額外的 LikeCoin 。我們建議將您的 Matters 帳號與未來希望接收 LikeCoin 資助金的錢包（透過設定 Liker ID ）直接綁定。
-4. 發一封郵件給 like.grants@protonmail.com 。標題請用 "LikeCoin Grants Proposal: Your Project Title" 並在信內提供：（1）申請方 LikeCoin 錢包或 Liker ID；（2）在 GitHub 的提案書遞交連結；（3）在 Matters 的提案介紹貼文連結。
+4. 發一封郵件給 like.grants@protonmail.com 。標題請用 "LikeCoin Grants Proposal: `Your Project Title`" 並在信內提供：（1）申請方 LikeCoin 錢包或 Liker ID；（2）在 GitHub 的提案書遞交連結；（3）在 Matters 的提案介紹貼文連結。
 5. 給我們一點耐心，稍候本計畫回覆確認收到您的申請。
 
 ### 提案書規格
