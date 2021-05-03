@@ -77,7 +77,7 @@ The **LikeCoin Grants**, co-initiated by [LikeCoin Foundation](https://like.co) 
 * Before the last installment of the grant is made, the grantee is obliged to turn in a simple final account that indcates how the grant has actually been used based on the budget planned.
 
 
-## Bonus Grant for Outstaning Projects
+## Bonus Grant for Outstanding Projects
 * To encourage the grantees to use the budget actively, properly and sufficiently, as well as to pursue the best achievement possible for your project, the program equips an review mechanism for bonus grant. 
 * Before each grant period ends, the committee will evaluate the result of your project. Based on the evaluation, the progrma holds the right to give a bonus ranging from 1% to 10% of the orignal grant to the grantee.
 
