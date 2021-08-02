@@ -1,5 +1,5 @@
 ### 歡迎來到 LikeCoin Grants 計畫！
-> 我們目前正在進行**第一輪次**的開發提案徵件，如果你想了解這項資助計畫的簡介資訊（包括申請說明），請前往[這裡](https://github.com/likegrants/info/blob/main/introduction-ch.md)。
+> 我們已經將計畫的基地搬移到了 Notion，如果你想進一步了解相關資訊，請前往[這裡](https://likecoingrants.notion.site/MainPage-32d790bb3d3b4b6ea9832dc0fe8bda62)。
 
 ### Welcome to the LikeCoin Grants Program!
-> We are currently calling for **Round 1** proposals. For English information (includes an application tutorial), please go to [here](https://github.com/likegrants/info/blob/main/introduction-en.md).
+> We've moved our base to Notion already. If you want to know more about the program, please go to [here](https://likecoingrants.notion.site/MainPage-32d790bb3d3b4b6ea9832dc0fe8bda62).
